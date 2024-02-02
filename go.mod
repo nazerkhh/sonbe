@@ -1,8 +1,9 @@
-module github.com/Nazerkh09/sonbe
+module github.com/Nazerkhh/sonbe
 
 go 1.21.5
 
 require (
+	github.com/Nazerkh09/sonbe v0.0.0-20240202042658-96406c6b533b
 	github.com/gin-gonic/gin v1.9.1
 	github.com/lib/pq v1.10.9
 )

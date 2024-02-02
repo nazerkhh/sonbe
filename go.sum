@@ -1,3 +1,5 @@
+github.com/Nazerkh09/sonbe v0.0.0-20240202042658-96406c6b533b h1:OaZFq30/eQYJwpdALTv9IxsCE6HmIYqhT47p6ZrGsl4=
+github.com/Nazerkh09/sonbe v0.0.0-20240202042658-96406c6b533b/go.mod h1:CBduRSUUEg6mmYDA7GIwefX7ZWqMKYnefsk1UYS4anI=
 github.com/bytedance/sonic v1.5.0/go.mod h1:ED5hyg4y6t3/9Ku1R6dU/4KyJ48DZ4jPhfY1O2AihPM=
 github.com/bytedance/sonic v1.9.1 h1:6iJ6NqdoxCDr6mbY8h18oSO+cShGSMRGCEo7F2h0x8s=
 github.com/bytedance/sonic v1.9.1/go.mod h1:i736AoUSYt75HyZLoJW9ERYxcy6eaN6h4BZXU064P/U=

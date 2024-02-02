@@ -2,7 +2,7 @@
 package apiserver
 
 import (
-	"github.com/Nazerkh09/sonbe/internal/app/apiserver/handlers"
+	"github.com/Nazerkhh/sonbe/internal/app/apiserver/handlers"
 
 	"github.com/gin-gonic/gin"
 )

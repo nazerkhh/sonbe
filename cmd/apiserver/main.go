@@ -6,8 +6,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Nazerkh09/sonbe/internal/app/apiserver/database"
-	"github.com/Nazerkh09/sonbe/internal/app/apiserver/routes"
+	"github.com/Nazerkhh/sonbe/internal/app/apiserver/database"
+	"github.com/Nazerkhh/sonbe/internal/app/apiserver/routes"
 	"github.com/gin-gonic/gin"
 )
 
